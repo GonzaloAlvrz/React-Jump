@@ -1,0 +1,9 @@
+.titulo-titulo{
+    display: flex;
+    align-items: center;
+}
+
+.logo-titulo{
+    height: 50px;
+    width: 50px;
+}
