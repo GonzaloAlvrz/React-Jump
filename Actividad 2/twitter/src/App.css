@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,200&display=swap');
+
+body{
+  background: rgb(58,173,180);
+  background: linear-gradient(90deg, rgba(58,173,180,1) 0%, rgba(29,55,253,0.8567576688878676) 51%, rgba(69,252,186,1) 100%);
+  font-family: 'Roboto Flex', sans-serif;
+}
+
+.prin-app{
+  background-color: #00acee;
+  width: 1100px;
+  height: 200px;
+  margin: 10px auto 0px auto;
+
+}
+
+.titutlo-app{
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+}
+
+.foto-y-tweet-app{
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  border-top: 3px solid rgb(255, 254, 254);
+}
+
+.foto-app{
+  color: white;
+
+}
+
+.tweet-app{
+  color: white;
+  font-size: medium;
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+}
