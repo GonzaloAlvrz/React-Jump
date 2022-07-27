@@ -1,0 +1,71 @@
+
+.principal-tweet{
+    display: flex;
+    flex-direction: row;
+/*     border: 1px solid rgb(165, 165, 165); */
+}
+.caja-tweet{
+    display: flex;
+    flex-direction: row;
+/*     background-color: darkgrey; */
+    width: 20%;
+    
+
+}
+
+.caja-foto-tweet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    /* background-color: black; */ 
+}
+
+.foto-perfil{
+    height: 110px;
+    width: 110px;
+}
+
+.caja-usuario-tweet{
+    width: 80%;
+/*     background-color: rgb(183, 9, 9);  */
+
+}
+
+.usuario-tiempo-tweet{
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+/*    background-color: rgb(119, 183, 9);  */
+   
+   
+}
+.btn-tweet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border-bottom: 1px solid rgb(165, 165, 165);
+/*     border-left: 1px solid rgb(165, 165, 165); */
+}
+.btn-like-tweet{
+
+    height: 30px;
+    width: 60%;
+}
+
+.usuario-tweet{
+    margin-left: 20px;
+}
+.tiempo-publicacion-tweet{
+    margin-left: 7px;
+}
+.configuracion-tweet{
+
+    margin-left: 200px;
+}
+/* .border{
+    border: 1px solid rgb(165, 165, 165);
+} */

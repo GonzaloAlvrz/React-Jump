@@ -1,0 +1,37 @@
+.iconos-nombre{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(238, 255, 0);
+}
+
+.list{
+    height: 0px;
+    position: relative;
+    top: 25px;
+    list-style: none;
+    background-color: aqua;
+    margin-left: 90px;
+   
+
+}
+
+.foto-perfil{
+    border-radius: 100px;
+}
+
+.ul{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.botn-twitear-menu{
+    height: 30px;
+    width: 160px;
+    border-radius: 100px;
+    background-color: #ee00c698;
+    border: none;
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+
+}

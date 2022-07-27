@@ -1,0 +1,91 @@
+/* principal contenido, etse div engloba los demás div */
+
+.principal-contenido{
+    width: 46%;
+    border: 1px solid rgb(165, 165, 165);
+    margin-left: 27%;
+}
+
+/* Div que le pertence al titulo "Inicio"  y la foto-icono*/
+.titulo-ft-contenido{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+/* clase que le pertence al titulo "Inicio" */
+.h1-inicio-contenido{
+    margin-left: 35px;
+}
+
+
+.est-contenido{
+    height: 40px;
+    width: 40px;
+    margin-left: 520px;
+}
+/* Div que engloba a la foto de perfil y al text-area */
+.tweet-foto-contenido{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -10px;
+    height: 90px;
+    border-radius: 100px;
+}
+
+/* clase de la foto perfil */
+
+.foto-perfil-contenido{
+    height: 110px;
+    width: 110px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 100px;
+}
+
+
+/* Div del text-area */
+
+.area-texto-contenido{
+    display: flex;
+    margin-left: 30px;
+    color: #8d8d8d;
+    font-size: x-large;
+    font-weight: normal;
+    position: relative;
+    top: 20px;
+}
+
+
+/* Div que contine opcines de tweet y el boton twitear */
+.ft-boton{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(165, 165, 165);
+    
+}
+
+/* clase de la foto con ociones, más adelante se cambiará por íconos */
+
+.opciones-tweet-contenido{
+    position: relative;
+    left: 140px;
+    height: 45px;
+    margin-bottom: 10px;
+}
+
+/* botón twitter */
+.botn-twitear{    
+    position: relative;
+    left: 250px;
+    height: 30px;
+    width: 160px;
+    border-radius: 100px;
+    background-color: #00abee98;
+    border: none;
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+}

@@ -1,0 +1,41 @@
+.menu{
+    position: fixed;
+    height: 750px;
+    width: 27%;
+/*     border-right: 1px solid rgb(0, 0, 0); */
+
+}
+
+.icono-titulo{
+    display: flex;
+    flex-direction: row;
+ /*    background-color: rgb(255, 179, 0);  */
+    align-items: center;
+    position: relative;
+    top: -20px;
+    width: 220px;
+    
+
+}
+
+
+
+
+.icono-menu{
+    height: 40px;
+    width: 40px;
+}
+
+.icono{
+    height: 50px;
+    width: 50px;
+}
+
+.nombre-menu{
+    font-size: x-large;
+}
+
+.fa-regular{
+    font-size: x-large;
+    margin-right: 10px;
+}

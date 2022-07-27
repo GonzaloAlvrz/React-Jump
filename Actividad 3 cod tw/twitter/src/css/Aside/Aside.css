@@ -1,0 +1,64 @@
+.principal{
+/* background-color: greenyellow; */
+margin-left: auto;
+margin-right: auto;
+}
+
+.buscador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 30px;
+     background-color: rgb(165, 165, 165); 
+    border-radius: 100px;
+    margin-top: 30px;
+}
+
+
+/* ---------- */
+
+.caja-trend{
+    
+    margin:40px auto 0px auto;
+    height: 300px;
+    width: 300px;
+/*     background-color: darkslateblue; */
+    border-radius: 20px;
+}
+
+.qep-asidec{
+    position: relative;
+    top: 10px;
+    margin-left: 20px;
+}
+
+.directo-asidec{
+    height: 200px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+/*     background-color: crimson; */
+}
+
+.caja-titulo-directo-asidec{
+    height: 80px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+ /*    background-color: rgb(143, 220, 20); */
+}
+
+.contenido-directo-asidec{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+/*     background-color: rgb(220, 157, 20); */
+}
+
+.foto-directo-asidec{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-left: 17px;
+}

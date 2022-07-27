@@ -1,0 +1,37 @@
+.caja-ttt--izquierda-secciones{
+    display: flex;
+    flex-direction: row;
+    height: 90px;
+    width: 100%;
+/*     background-color: dimgrey; */
+
+}
+
+.caja-ttt-secciones{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 90px;
+    width: 60%;
+/*     background-color: yellow; */
+    margin-top: 20px;
+}
+
+.titulo-secciones{
+/*     background-color: cadetblue; */
+
+}
+
+.tendencia{
+/*     background-color: rgb(187, 244, 182); */
+    font-weight: bold;
+}
+
+.tweet{
+/*     background-color: rgb(160, 103, 95); */
+}
+
+.configuracion-secciones{
+    position: relative;
+    left: 80px;
+}

@@ -1,0 +1,25 @@
+.caja-pincipal{
+    margin:40px auto 0px auto;
+    height: 450px;
+    width: 300px;
+    background-color: rgb(165, 165, 165);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.titulo-seguir{
+    position: relative;
+    top: 10px;
+    margin-left: 20px;
+}
+
+
+.mostrar-mas{
+
+    font-weight: lighter;
+   color: rgb(0, 81, 255); 
+}
+
+.mm{
+    margin-left: 15px;
+}
